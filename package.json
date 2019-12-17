@@ -1,0 +1,11 @@
+{
+  "name": "squares_collision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "tsc app.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
